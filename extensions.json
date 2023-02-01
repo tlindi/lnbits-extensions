@@ -51,5 +51,12 @@
             "archive": "https://github.com/lnbits/lnbits-extensions/raw/main/extensions/example/example-extension.zip",
             "hash": "3b5279b9038e31dcbb673b081ab482bd6b855c3ebfde9cd90ad4e98c93f5271a"
         }
+    ],
+ "repos": [
+        {
+            "id": "pegging",
+            "organisation": "lnbits",
+            "repository": "stable-wallets"
+        }
     ]
 }
