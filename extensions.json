@@ -827,6 +827,17 @@
             "icon": "https://raw.githubusercontent.com/lnbits/nostrmarket/main/static/images/bitcoin-shop.png",
             "archive": "https://github.com/lnbits/nostrmarket/archive/refs/tags/v0.6.0.zip",
             "hash": "97f6b33fc901551bda90527b3c2d1f80b22608dc1cf23fd92a1ad00cf372c779"
+        },
+        {
+            "id": "testext",
+            "repo": "https://github.com/motorina0/testext",
+            "name": "Test Extension",
+            "version": "0.1",
+            "short_description": "Private Test Extension",
+            "icon": "https://raw.githubusercontent.com/lnbits/nostrmarket/main/static/images/bitcoin-shop.png",
+            "archive": "http://localhost:5000/paywall/download/jRvV9NA2uq8iqJBPL6JzUs",
+            "pay_link": "http://localhost:5000/paywall/api/v1/paywalls/invoice/jRvV9NA2uq8iqJBPL6JzUs",
+            "hash": "129f689561134d8db17a2ca401c0f6aaf5b564f22a76ee0ab36e1f372d53f814"
         }
     ]
 }
