@@ -835,8 +835,8 @@
             "version": "0.1",
             "short_description": "Private Test Extension",
             "icon": "https://raw.githubusercontent.com/lnbits/nostrmarket/main/static/images/bitcoin-shop.png",
-            "archive": "http://localhost:5000/paywall/download/jRvV9NA2uq8iqJBPL6JzUs",
-            "pay_link": "http://localhost:5000/paywall/api/v1/paywalls/invoice/jRvV9NA2uq8iqJBPL6JzUs",
+            "archive": "https://af64-84-117-103-2.ngrok-free.app/paywall/download/jRvV9NA2uq8iqJBPL6JzUs",
+            "pay_link": "https://af64-84-117-103-2.ngrok-free.app/paywall/api/v1/paywalls/invoice/jRvV9NA2uq8iqJBPL6JzUs",
             "hash": "129f689561134d8db17a2ca401c0f6aaf5b564f22a76ee0ab36e1f372d53f814"
         }
     ]
