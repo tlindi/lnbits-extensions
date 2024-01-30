@@ -837,7 +837,7 @@
             "icon": "https://raw.githubusercontent.com/lnbits/nostrmarket/main/static/images/bitcoin-shop.png",
             "archive": "http://localhost:5000/paywall/download/jRvV9NA2uq8iqJBPL6JzUs",
             "pay_link": "http://localhost:5000/paywall/api/v1/paywalls/invoice/jRvV9NA2uq8iqJBPL6JzUs",
-            "hash": "129f689561134d8db17a2ca401c0f6aaf5b564f22a76ee0ab36e1f372d53f814"
+            "hash": "c9bc5189633c53380cb7796a7a43760aab0c9a6a5501fb98f9cb4dfa3debd158"
         }
     ]
 }
