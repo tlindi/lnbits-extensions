@@ -859,7 +859,7 @@
             "icon": "https://raw.githubusercontent.com/lnbits/example/main/static/bitcoin-extension.png",
             "archive": "http://localhost:5000/paywall/download/BNv6XjB4DKLBQt7q5w4HuG",
             "pay_link": "http://localhost:5000/paywall/api/v1/paywalls/invoice/BNv6XjB4DKLBQt7q5w4HuG",
-            "hash": "ed6000fa13478c2998bd71d49f9947924dc29c4d194394d77d6364f7c118beea"
+            "hash": "4b884340f3ee331c365015b2235b84570077c7956c9939ed2dd7f685cee6ed60"
         }
     ]
 }
