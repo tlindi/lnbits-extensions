@@ -834,10 +834,21 @@
             "name": "Test Extension",
             "version": "0.1",
             "short_description": "Private Test Extension",
-            "icon": "https://raw.githubusercontent.com/lnbits/nostrmarket/main/static/images/bitcoin-shop.png",
+            "icon": "https://raw.githubusercontent.com/lnbits/example/main/static/images/bitcoin-extension.png",
             "archive": "http://localhost:5000/paywall/download/jRvV9NA2uq8iqJBPL6JzUs",
             "pay_link": "http://localhost:5000/paywall/api/v1/paywalls/invoice/jRvV9NA2uq8iqJBPL6JzUs",
             "hash": "c9bc5189633c53380cb7796a7a43760aab0c9a6a5501fb98f9cb4dfa3debd158"
+        },
+        {
+            "id": "testext",
+            "repo": "https://github.com/motorina0/testext",
+            "name": "Test Extension",
+            "version": "0.2",
+            "short_description": "Private Test Extension",
+            "icon": "https://raw.githubusercontent.com/lnbits/example/main/static/images/bitcoin-extension.png",
+            "archive": "http://localhost:5000/paywall/download/jRvV9NA2uq8iqJBPL6JzUs",
+            "pay_link": "http://localhost:5000/paywall/api/v1/paywalls/invoice/jRvV9NA2uq8iqJBPL6JzUs",
+            "hash": "ed6000fa13478c2998bd71d49f9947924dc29c4d194394d77d6364f7c118beea"
         }
     ]
 }
