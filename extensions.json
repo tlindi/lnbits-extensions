@@ -887,7 +887,7 @@
             "id": "testext",
             "repo": "https://github.com/motorina0/testext",
             "name": "Test Extension",
-            "version": "0.5",
+            "version": "0.6",
             "short_description": "Private Test Extension",
             "icon": "https://raw.githubusercontent.com/lnbits/example/main/static/bitcoin-extension.png",
             "archive": "http://localhost:5000/paywall/download/BNv6XjB4DKLBQt7q5w4HuG",
