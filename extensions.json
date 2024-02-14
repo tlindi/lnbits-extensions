@@ -123,6 +123,16 @@
             "archive": "https://github.com/lnbits/tpos/archive/refs/tags/v0.6.0.zip",
             "hash": "faccaba1aaf65bc1c0c9efe4278eeb1960e2a6bd29246d8b1f86fc42bc0c0f0e"
         },
+        {    "id": "tpos",
+            "repo": "https://github.com/lnbits/tpos",
+            "name": "TPoS",
+            "version": "0.6.2-tlindi-new",
+            "min_lnbits_version": "0.11.2",
+            "short_description": "Secure, mobile-ready, instant and shareable point of sale",
+            "icon": "https://raw.githubusercontent.com/lnbits/tpos/main/static/image/tpos.png",
+            "archive": "https://github.com/tlindi/tpos/archive/refs/tags/v0.6.2-tlindi-new.zip",
+            "hash": "f5056cca111fd0ae18c2c146e7d13f33fd45aba41002b7ca05224d9a31f1818d"
+        },
         {
             "id": "usermanager",
             "repo": "https://github.com/lnbits/usermanager",
