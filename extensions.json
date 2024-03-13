@@ -200,12 +200,12 @@
             "id": "events",
             "repo": "https://github.com/lnbits/events",
             "name": "Events",
-            "version": "0.1.4",
+            "version": "0.1.6",
             "min_lnbits_version": "0.11.0",
             "short_description": "Sell and register event tickets",
             "icon": "https://raw.githubusercontent.com/lnbits/events/main/static/image/events.png",
-            "archive": "https://github.com/lnbits/events/archive/refs/tags/v0.1.4.zip",
-            "hash": "1e97a037247fc4a6adafca0ecb0f9723d443bc2c70d1a6ebedab57859051e341"
+            "archive": "https://github.com/lnbits/events/archive/refs/tags/v0.1.6.zip",
+            "hash": "f3c778103fdc5da355ee46de511474736c52d3a6b44f8a369ef916003a1f7576"
         },
         {
             "id": "lnurldevice",
@@ -506,12 +506,12 @@
             "id": "cashu",
             "repo": "https://github.com/lnbits/cashu",
             "name": "Cashu",
-            "version": "0.4.2",
+            "version": "0.4.5",
             "min_lnbits_version": "0.11.0",
             "short_description": "Chaumian Ecash mint",
             "icon": "https://github.com/lnbits/cashu/raw/main/static/image/cashu.png",
-            "archive": "https://github.com/lnbits/cashu/archive/refs/tags/0.4.2.zip",
-            "hash": "16ba707fbeee005128f438f2ab9558dd32916bab8a19a535647e2f7c6c48d6d0"
+            "archive": "https://github.com/lnbits/cashu/archive/refs/tags/0.4.5.zip",
+            "hash": "bbf87677beb52fe54acba42a9c88d37e77f2b271642788a1bb3f8481b84d9190"
         },
         {
             "id": "deezy",
@@ -611,12 +611,12 @@
             "id": "market",
             "repo": "https://github.com/lnbits/market",
             "name": "Marketplace",
-            "version": "0.2.2",
+            "version": "0.2.4",
             "min_lnbits_version": "0.11.0",
             "short_description": "Webshop/market on LNbits",
             "icon": "https://github.com/lnbits/market/raw/main/static/images/bitcoin-shop.png",
-            "archive": "https://github.com/lnbits/market/archive/refs/tags/v0.2.2.zip",
-            "hash": "50b38bf7b98eeb64825597cb5426b8a24b1d67ba7e528a06e9c1eb129d87685d"
+            "archive": "https://github.com/lnbits/market/archive/refs/tags/v0.2.4.zip",
+            "hash": "eec1f072e06233ef3b9ccdd25e14ed1aa105f98e2ae17694fa119900830302bc"
         },
         {
             "id": "satspay",
@@ -632,12 +632,12 @@
             "id": "satspay",
             "repo": "https://github.com/lnbits/satspay",
             "name": "SatsPay Server",
-            "version": "0.2.6",
+            "version": "0.2.7",
             "min_lnbits_version": "0.11.0",
             "short_description": "Create onchain and LN charges",
             "icon": "https://github.com/lnbits/satspay/raw/main/static/image/satspay.png",
-            "archive": "https://github.com/lnbits/satspay/archive/refs/tags/v0.2.6.zip",
-            "hash": "cc0b4ccdd4909cc1c09b1da3a5aa1bd77db1ff6a5446f58e0ec13e17b877d59c"
+            "archive": "https://github.com/lnbits/satspay/archive/refs/tags/v0.2.7.zip",
+            "hash": "6bff00f34832dd8758d519f2ee931710a817f6b972454daaecf33c6a80d42c98"
         },
         {
             "id": "bleskomat",
